@@ -114,7 +114,7 @@ margin-top:1.2rem;
 
     h1{
         line-height: 120%;
-        letter-spacing: 110%;
+        letter-spacing: 100%;
         font-size: 1.8rem;
         text-align: center;
     }
@@ -152,7 +152,7 @@ margin-top:1.2rem;
     #description{
      text-align: center;
         line-height: 170%;
-        letter-spacing: 135%;
+        letter-spacing: 100%;
         font-size: 1.12rem;
         margin-top: 1.7rem;
     }
@@ -231,7 +231,7 @@ margin-top:1.2rem;
     #description{
         text-align: center;
         line-height: 170%;
-        letter-spacing: 135%;
+        letter-spacing: 120%;
         font-size: 1.3rem;
         margin-top: 1.7rem;
     }
